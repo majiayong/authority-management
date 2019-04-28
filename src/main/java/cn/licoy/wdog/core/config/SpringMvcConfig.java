@@ -8,7 +8,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import java.util.List;
 
 /**
- * @author licoy.cn
+ * @author mjy.cn
  * @version 2018/9/13
  */
 @SpringBootConfiguration

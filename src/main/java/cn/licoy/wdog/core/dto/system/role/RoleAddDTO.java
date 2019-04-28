@@ -8,7 +8,7 @@ import javax.validation.constraints.Size;
 import java.util.List;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/19/14:28
  */
 @Data

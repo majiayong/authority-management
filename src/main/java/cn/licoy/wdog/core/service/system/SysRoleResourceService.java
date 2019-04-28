@@ -7,7 +7,7 @@ import com.baomidou.mybatisplus.service.IService;
 import java.util.List;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/16/9:01
  */
 public interface SysRoleResourceService extends IService<SysRoleResource> {

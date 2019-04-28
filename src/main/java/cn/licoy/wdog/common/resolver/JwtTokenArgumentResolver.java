@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.lang.annotation.Annotation;
 
 /**
- * @author licoy.cn
+ * @author mjy.cn
  * @version 2018/10/16
  */
 public class JwtTokenArgumentResolver implements HandlerMethodArgumentResolver {

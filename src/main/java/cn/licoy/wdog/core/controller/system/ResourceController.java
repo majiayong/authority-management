@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 /**
- * @author licoy.cn
+ * @author mjy.cn
  * @version 2018/4/22
  */
 @RestController

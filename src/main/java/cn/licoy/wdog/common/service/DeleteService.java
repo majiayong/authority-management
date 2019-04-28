@@ -1,7 +1,7 @@
 package cn.licoy.wdog.common.service;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/5/25/13:14
  * @see BaseService 注释配置请参见BaseService
  */

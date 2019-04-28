@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/16/8:58
  */
 @Data

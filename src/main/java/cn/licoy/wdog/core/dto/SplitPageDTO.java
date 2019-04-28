@@ -3,7 +3,7 @@ package cn.licoy.wdog.core.dto;
 import lombok.Data;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/18/14:17
  */
 @Data

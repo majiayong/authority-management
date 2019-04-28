@@ -10,7 +10,7 @@ import javax.validation.constraints.Size;
 import java.util.List;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/24/16:50
  */
 @Data

@@ -6,7 +6,7 @@ import org.hibernate.validator.constraints.NotBlank;
 import javax.validation.constraints.Pattern;
 
 /**
- * @author licoy.cn
+ * @author mjy
  * @version 2018/1/24
  */
 @Data

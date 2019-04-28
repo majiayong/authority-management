@@ -11,9 +11,9 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableConfigurationProperties
 @EnableTransactionManagement
 @EnableCaching
-public class WatchDogApplication {
+public class AuthorityManagement {
 
     public static void main(String[] args) {
-        SpringApplication.run(WatchDogApplication.class, args);
+        SpringApplication.run(AuthorityManagement.class, args);
     }
 }

@@ -26,7 +26,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author licoy.cn
+ * @author mjy.cn
  * @version 2017/9/22
  */
 @Configuration

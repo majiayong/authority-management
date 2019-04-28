@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/5/25/12:54
  */
 public interface CreateController<AD,S extends CreateService<AD>> {

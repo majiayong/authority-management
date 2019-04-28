@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/23/12:12
  */
 @SpringBootTest

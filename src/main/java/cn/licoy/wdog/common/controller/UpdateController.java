@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/5/25/13:27
  */
 public interface UpdateController<UID,UD,S extends UpdateService<UID,UD>> {

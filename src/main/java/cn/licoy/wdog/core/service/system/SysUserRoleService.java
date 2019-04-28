@@ -4,7 +4,7 @@ import cn.licoy.wdog.core.entity.system.SysUserRole;
 import com.baomidou.mybatisplus.service.IService;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/16/11:32
  */
 public interface SysUserRoleService extends IService<SysUserRole> {

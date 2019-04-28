@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/27/17:20
  */
 @Data

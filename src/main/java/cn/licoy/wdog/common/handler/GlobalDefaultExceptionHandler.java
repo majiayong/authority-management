@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @author licoy.cn
+ * @author mjy.cn
  * @version 2017/11/18
  */
 @ControllerAdvice(basePackages = {"cn.licoy.wdog"})

@@ -9,7 +9,7 @@ import org.apache.shiro.authc.*;
 import org.apache.shiro.authc.credential.SimpleCredentialsMatcher;
 
 /**
- * @author licoy.cn
+ * @author mjy.cn
  * @version 2017/9/25
  */
 public class CredentialsMatcher extends SimpleCredentialsMatcher {

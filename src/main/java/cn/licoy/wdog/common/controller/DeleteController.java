@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/5/25/13:27
  */
 public interface DeleteController<UID,S extends DeleteService<UID>> {

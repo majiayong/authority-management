@@ -3,7 +3,7 @@ package cn.licoy.wdog.common.controller;
 import cn.licoy.wdog.common.service.BaseService;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/5/25/11:36
  * @param <E> 控制器对象实体
  * @param <AD> 添加DTO

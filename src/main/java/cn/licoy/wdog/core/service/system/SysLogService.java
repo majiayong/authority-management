@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.service.IService;
 import java.util.List;
 
 /**
- * @author Licoy
+ * @author mjy
  * @version 2018/4/28/9:56
  */
 public interface SysLogService extends IService<SysLog>,QueryService<SysLog,FindLogDTO>
